@@ -1,11 +1,7 @@
 package com.example.Ejercicio2.models.estrategiasMarcas;
 
 import com.example.Ejercicio2.models.EstrategiasTasa;
-import jakarta.persistence.*;
-import lombok.AllArgsConstructor;
-import lombok.Getter;
-import lombok.NoArgsConstructor;
-import lombok.Setter;
+
 
 import java.time.LocalDate;
 
